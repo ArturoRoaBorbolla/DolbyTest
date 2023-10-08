@@ -1,0 +1,43 @@
+EMP_ID,Employee,Employee_Org_Unit_4___Code,Year,Bussiness_Group,Month,Cumulative(Approved_Amount_RPT),Time at month over 70
+301557,"Bjelke-Holtermann, Ove",F3070,2023,CMS,01,419.96,1
+303871,"Bohunicky, Madison Ainsley",F4212,2023,Marketing,01,252.32,1
+205624,"Carlin, Pamela",F5100,2023,CFO,01,1686572.7,1
+302095,"Coffey, Daniel",F3125,2023,Dolby.io,01,633.93,1
+207973,"Courville, Bernard",F4120,2023,Entertainment,01,381.9,1
+303910,"Gong, Michelle",F4486,2023,Dolby.io,01,6722.22,1
+302777,"Larsen, Christopher Wright",F4021,2023,Entertainment,01,502.55,1
+200483,"de Bourdoncle de Saint Salvy, Hugues",F4187,2023,Entertainment,01,527.94,1
+301557,"Bjelke-Holtermann, Ove",F3070,2023,CMS,02,419.96,1
+205624,"Carlin, Pamela",F5100,2023,CFO,02,1686572.7,1
+302095,"Coffey, Daniel",F3125,2023,Dolby.io,02,633.93,1
+207973,"Courville, Bernard",F4120,2023,Entertainment,02,381.9,1
+302777,"Larsen, Christopher Wright",F4021,2023,Entertainment,02,502.55,1
+200483,"de Bourdoncle de Saint Salvy, Hugues",F4187,2023,Entertainment,02,527.94,1
+205624,"Carlin, Pamela",F5100,2023,CFO,03,1686572.7,1
+302095,"Coffey, Daniel",F3125,2023,Dolby.io,03,633.93,1
+303948,"Emerson, Ayisha Stefanie",F4601,2023,Entertainment,03,75.8,1
+302777,"Larsen, Christopher Wright",F4021,2023,Entertainment,03,502.55,1
+200483,"de Bourdoncle de Saint Salvy, Hugues",F4187,2023,Entertainment,03,527.94,1
+207438,"Alvarado, Jesus",F4280,2023,Entertainment,04,374.75,1
+8525,"Bullock, Dean",F3204,2023,ATG,04,156.0,1
+205624,"Carlin, Pamela",F5100,2023,CFO,04,1686572.7,1
+208097,"Castellon, Jose",F2400,2023,nan,04,486.5,1
+209402,"Christensen, Kenneth",F4120,2023,Entertainment,04,1813.79,1
+302095,"Coffey, Daniel",F3125,2023,Dolby.io,04,633.93,1
+207973,"Courville, Bernard",F4120,2023,Entertainment,04,381.9,1
+204257,"Dieu, Cody",F2206,2023,nan,04,233.16,1
+304834,"Fernando, Madeleine Brigit",F4212,2023,Marketing,04,272.7,1
+207483,"Ghaenian, Reneh",F4120,2023,Entertainment,04,274.35,1
+35104,"Hohle, Bradford",F4120,2023,Entertainment,04,229.94,1
+302777,"Larsen, Christopher Wright",F4021,2023,Entertainment,04,502.55,1
+300554,"Lizotte, Andrew",F4120,2023,Entertainment,04,74.95,1
+200483,"de Bourdoncle de Saint Salvy, Hugues",F4187,2023,Entertainment,04,527.94,1
+305623,"Abraham, Daniel",F5613,2023,Legal,05,88.52,1
+205624,"Carlin, Pamela",F5100,2023,CFO,05,1686572.7,1
+302095,"Coffey, Daniel",F3125,2023,Dolby.io,05,633.93,1
+303932,"Huwe, Marie Kristen",F3134,2023,Dolby.io,05,957.15,1
+302777,"Larsen, Christopher Wright",F4021,2023,Entertainment,05,502.55,1
+305636,"Lay, Jessica",F5609,2023,Legal,05,7697.28,1
+300657,"McCarthy, Sean",F5277,2023,Legal,05,83.04,1
+305642,"Akiyama, Linda",F5609,2023,Legal,06,2181.88,1
+205624,"Carlin, Pamela",F5100,2023,CFO,06,1686572.7,1

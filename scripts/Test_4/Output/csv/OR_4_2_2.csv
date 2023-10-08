@@ -1,0 +1,43 @@
+EMP_ID,Employee,Employee_Country_Code,Bussiness_Group,Year,Month,Sum(Approved_Amount__rpt_)
+205624,"Carlin, Pamela",US,CFO,2023,03,50519.630000000005
+205624,"Carlin, Pamela",US,CFO,2023,02,45843.29
+205624,"Carlin, Pamela",US,CFO,2023,05,28505.489999999998
+205624,"Carlin, Pamela",US,CFO,2023,04,28138.1
+205624,"Carlin, Pamela",US,CFO,2023,01,8628.069999999998
+205624,"Carlin, Pamela",US,CFO,2023,06,8372.88
+303910,"Gong, Michelle",US,Dolby.io,2023,01,6722.22
+305636,"Lay, Jessica",US,Legal,2023,05,3848.64
+305642,"Akiyama, Linda",US,Legal,2023,06,1090.94
+301557,"Bjelke-Holtermann, Ove",US,CMS,2023,01,209.98
+301557,"Bjelke-Holtermann, Ove",US,CMS,2023,02,209.98
+209402,"Christensen, Kenneth",US,Entertainment,2023,04,164.89000000000001
+303871,"Bohunicky, Madison Ainsley",US,Marketing,2023,01,126.16
+35104,"Hohle, Bradford",US,Entertainment,2023,04,114.97
+207973,"Courville, Bernard",US,Entertainment,2023,01,110.27000000000001
+302095,"Coffey, Daniel",US,Dolby.io,2023,03,108.99
+303932,"Huwe, Marie Kristen",US,Dolby.io,2023,05,106.35000000000001
+302777,"Larsen, Christopher Wright",US,Entertainment,2023,01,100.51
+302777,"Larsen, Christopher Wright",US,Entertainment,2023,02,100.51
+302777,"Larsen, Christopher Wright",US,Entertainment,2023,03,100.51
+302777,"Larsen, Christopher Wright",US,Entertainment,2023,04,100.51
+302777,"Larsen, Christopher Wright",US,Entertainment,2023,05,100.51
+208097,"Castellon, Jose",US,nan,2023,04,97.3
+200483,"de Bourdoncle de Saint Salvy, Hugues",US,Entertainment,2023,04,95.99
+207483,"Ghaenian, Reneh",US,Entertainment,2023,04,91.44999999999999
+304834,"Fernando, Madeleine Brigit",US,Marketing,2023,04,90.9
+207973,"Courville, Bernard",US,Entertainment,2023,04,89.94
+305623,"Abraham, Daniel",US,Legal,2023,05,88.52
+302095,"Coffey, Daniel",US,Dolby.io,2023,01,87.99
+300657,"McCarthy, Sean",US,Legal,2023,05,83.04
+200483,"de Bourdoncle de Saint Salvy, Hugues",US,Entertainment,2023,01,79.99
+200483,"de Bourdoncle de Saint Salvy, Hugues",US,Entertainment,2023,02,79.99
+200483,"de Bourdoncle de Saint Salvy, Hugues",US,Entertainment,2023,03,79.99
+302095,"Coffey, Daniel",US,Dolby.io,2023,02,79.99
+302095,"Coffey, Daniel",US,Dolby.io,2023,04,79.99
+302095,"Coffey, Daniel",US,Dolby.io,2023,05,79.99
+8525,"Bullock, Dean",US,ATG,2023,04,78.0
+204257,"Dieu, Cody",US,nan,2023,04,77.72
+303948,"Emerson, Ayisha Stefanie",US,Entertainment,2023,03,75.8
+207438,"Alvarado, Jesus",US,Entertainment,2023,04,74.95
+300554,"Lizotte, Andrew",US,Entertainment,2023,04,74.95
+207973,"Courville, Bernard",US,Entertainment,2023,02,71.42

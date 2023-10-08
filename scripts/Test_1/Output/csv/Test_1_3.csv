@@ -1,0 +1,6 @@
+Input Year From,Input Year To,Input Quarter From,Input Quarter To,,,
+2023,2023,Q1,Q4,,,
+#,# Number of Total Meal,# Number of Meal over 100,% Percentage,$ Amount of Total Meal,$ Amount of Total Meal over 100,% Percentage Amt
+Total Attendee,34210,1232,3.6%,"$1,019,970","$268,670",26.0%
+1 Attendee,,145,0.42%,,"$84,544",8.0%
+2 and 2+ Attendee,,1087,3.18%,,"$184,126",18.0%

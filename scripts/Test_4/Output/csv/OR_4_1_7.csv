@@ -1,0 +1,141 @@
+EMP_ID,Employee,Employee_Org_Unit_4___Code,Year,Bussiness_Group,Month,Cumulative(Approved_Amount_RPT),Time at month over 150
+207438,"Alvarado, Jesus",F4280,2023,Entertainment,01,1585.52,1
+100074,"Arenas, Bryan",F2400,2023,nan,01,184.71,1
+207102,"Arenas, Christian",F4059,2023,Entertainment,01,261.54,1
+200523,"Brown, Charles",F3042,2023,ATG,01,863.96,1
+300249,"Bruce, James",F4031,2023,Entertainment,01,875.0,1
+207079,"Bu, Jane",F5446,2023,Legal,01,405.65,1
+205624,"Carlin, Pamela",F5100,2023,CFO,01,60577.39,1
+302260,"Carregha, Diego",F4020,2023,Entertainment,01,3065.08,1
+302095,"Coffey, Daniel",F3125,2023,Dolby.io,01,545.16,1
+204150,"DuBois, Maureen",F4506,2023,Entertainment,01,1895.63,1
+24000,"Dull, Elaine",F5251,2023,Legal,01,199.93,1
+204378,"Elsmore, Timothy",F4124,2023,Entertainment,01,1624.03,1
+206731,"Fan, Ji",F3125,2023,Dolby.io,01,185.32,1
+207482,"Gelin, Mark",F4120,2023,Entertainment,01,755.42,1
+209517,"Glover, Lauren Ashley",F5353,2023,People & Places,01,343.5,1
+201726,"Griffis, Patrick",F3204,2023,ATG,01,698.46,1
+202317,"Hu, Ailan",F3163,2023,ATG,01,221.84,1
+207469,"Hughes, Jose",F4120,2023,Entertainment,01,2200.0,1
+200216,"Jay, Helene",F4700,2023,Legal,01,936.34,1
+303493,"Jones, Jaquay",F5449,2023,Legal,01,414.06,1
+207470,"Kahvejian, Garo",F4120,2023,Entertainment,01,1250.19,1
+207854,"Kim, Ji Eun",F4247,2023,Entertainment,01,419.35,1
+201031,"Koh, Youkyung",F4083,2023,Entertainment,01,1627.52,1
+303520,"Kratz, Diane Gabl",F5210,2023,Legal,01,929.99,1
+45900,"Lazaro, Ricardo",F5090,2023,CFO,01,603.7,1
+205139,"Lucero, Richard",F5030,2023,CFO,01,928.02,1
+201743,"Maddalena, Michelle Ellen",F4059,2023,Entertainment,01,1696.37,1
+208185,"Mathew, Aby",F4540,2023,Entertainment,01,411.34,1
+206806,"Altman, Marcus",F3245,2023,Entertainment,02,677.2,1
+207513,"Assio, Joseph",F5102,2023,CFO,02,454.12,1
+200523,"Brown, Charles",F3042,2023,ATG,02,863.96,1
+300249,"Bruce, James",F4031,2023,Entertainment,02,875.0,1
+208083,"Burnett, Craig Vincent",F5270,2023,Legal,02,234.25,1
+205624,"Carlin, Pamela",F5100,2023,CFO,02,60577.39,1
+302260,"Carregha, Diego",F4020,2023,Entertainment,02,3065.08,1
+303463,"Dutta, Trinoy",F3008,2023,Entertainment,02,563.1,1
+304106,"Emami, Parastoo Fatemeh",F3110,2023,Dolby.io,02,1883.59,1
+207943,"Gehring, William",F4247,2023,Entertainment,02,515.32,1
+207482,"Gelin, Mark",F4120,2023,Entertainment,02,755.42,1
+305268,"Gorman, Alex Joseph",F5200,2023,Legal,02,400.0,1
+209674,"Gribler, Nancy Klasky",F4369,2023,Marketing,02,571.56,1
+201726,"Griffis, Patrick",F3204,2023,ATG,02,698.46,1
+200216,"Jay, Helene",F4700,2023,Legal,02,936.34,1
+207470,"Kahvejian, Garo",F4120,2023,Entertainment,02,1250.19,1
+303520,"Kratz, Diane Gabl",F5210,2023,Legal,02,929.99,1
+45900,"Lazaro, Ricardo",F5090,2023,CFO,02,603.7,1
+201743,"Maddalena, Michelle Ellen",F4059,2023,Entertainment,02,1696.37,1
+208776,"Akdeniz, Aysel",F4751,2023,Legal,03,565.47,1
+206806,"Altman, Marcus",F3245,2023,Entertainment,03,677.2,1
+207438,"Alvarado, Jesus",F4280,2023,Entertainment,03,1585.52,1
+301776,"Anderson, Bernie",F2405,2023,nan,03,442.92,1
+3320,"Andrews, Tim",F4055,2023,Entertainment,03,187.39,1
+206291,"Arnold, Ashley",F4187,2023,Entertainment,03,378.44,1
+200523,"Brown, Charles",F3042,2023,ATG,03,863.96,1
+300249,"Bruce, James",F4031,2023,Entertainment,03,875.0,1
+205624,"Carlin, Pamela",F5100,2023,CFO,03,60577.39,1
+304847,"Dright Dyson, Cynthia",F4702,2023,Legal,03,457.24,1
+204150,"DuBois, Maureen",F4506,2023,Entertainment,03,1895.63,1
+204378,"Elsmore, Timothy",F4124,2023,Entertainment,03,1624.03,1
+302050,"Emerson, Acacia",F5200,2023,Legal,03,600.0,1
+207482,"Gelin, Mark",F4120,2023,Entertainment,03,755.42,1
+202173,"Geller, Ron",F4202,2023,Entertainment,03,484.12,1
+201726,"Griffis, Patrick",F3204,2023,ATG,03,698.46,1
+209210,"Hennessy-York, Blake",F4702,2023,Legal,03,210.0,1
+207469,"Hughes, Jose",F4120,2023,Entertainment,03,2200.0,1
+304499,"Hughes, Patrick Joseph",F4750,2023,Legal,03,392.6,1
+207479,"Jackson, James",F4280,2023,Entertainment,03,165.48,1
+200216,"Jay, Helene",F4700,2023,Legal,03,936.34,1
+207470,"Kahvejian, Garo",F4120,2023,Entertainment,03,1250.19,1
+204862,"Kalluri, Venugopal",F3010,2023,Dolby.io,03,150.78,1
+303520,"Kratz, Diane Gabl",F5210,2023,Legal,03,929.99,1
+45900,"Lazaro, Ricardo",F5090,2023,CFO,03,603.7,1
+205139,"Lucero, Richard",F5030,2023,CFO,03,928.02,1
+201743,"Maddalena, Michelle Ellen",F4059,2023,Entertainment,03,1696.37,1
+200263,"Malnick, Nicole",F5002,2023,CFO,03,190.0,1
+200523,"Brown, Charles",F3042,2023,ATG,04,863.96,1
+300249,"Bruce, James",F4031,2023,Entertainment,04,875.0,1
+207079,"Bu, Jane",F5446,2023,Legal,04,405.65,1
+8525,"Bullock, Dean",F3204,2023,ATG,04,739.92,1
+300268,"Collantes, Patricia",F5352,2023,People & Places,04,562.14,1
+302421,"Devictor, Gilles",F4265,2023,Entertainment,04,827.72,1
+204150,"DuBois, Maureen",F4506,2023,Entertainment,04,1895.63,1
+204378,"Elsmore, Timothy",F4124,2023,Entertainment,04,1624.03,1
+207482,"Gelin, Mark",F4120,2023,Entertainment,04,755.42,1
+207612,"Gilleon, Berry",F2102,2023,nan,04,700.0,1
+201726,"Griffis, Patrick",F3204,2023,ATG,04,698.46,1
+200821,"Hoglund, Heath",F5440,2023,Legal,04,1144.45,1
+207469,"Hughes, Jose",F4120,2023,Entertainment,04,2200.0,1
+208356,"Jakkidi, Srinivas",F4480,2023,Entertainment,04,255.27,1
+200216,"Jay, Helene",F4700,2023,Legal,04,936.34,1
+205716,"Joguet-Reccordon, Cedric",F4247,2023,Entertainment,04,472.08,1
+207470,"Kahvejian, Garo",F4120,2023,Entertainment,04,1250.19,1
+303446,"Kennedy, Katelin Sarah",F5500,2023,People & Places,04,522.72,1
+45000,"Kodros, Thomas",F2404,2023,nan,04,560.22,1
+200971,"Kosiba, Christine",F5002,2023,CFO,04,561.05,1
+303520,"Kratz, Diane Gabl",F5210,2023,Legal,04,929.99,1
+45900,"Lazaro, Ricardo",F5090,2023,CFO,04,603.7,1
+303364,"Lee, Linda",F5301,2023,People & Places,04,600.0,1
+201743,"Maddalena, Michelle Ellen",F4059,2023,Entertainment,04,1696.37,1
+205455,"Adams, Maxwell",F5251,2023,Legal,05,160.37,1
+207438,"Alvarado, Jesus",F4280,2023,Entertainment,05,1585.52,1
+3507,"Babbitt, Michael",F4124,2023,Entertainment,05,452.46,1
+301472,"Baioumy, Mostafa",F5251,2023,Legal,05,595.58,1
+202805,"Barrett, Michael",F3246,2023,Entertainment,05,447.6,1
+200523,"Brown, Charles",F3042,2023,ATG,05,863.96,1
+300249,"Bruce, James",F4031,2023,Entertainment,05,875.0,1
+8525,"Bullock, Dean",F3204,2023,ATG,05,739.92,1
+205624,"Carlin, Pamela",F5100,2023,CFO,05,60577.39,1
+208554,"Chao, Ting-Mao",F5270,2023,Legal,05,183.5,1
+208675,"Chia, Thomas",F5440,2023,Legal,05,212.85,1
+209754,"Chu, Shih Kuang",F4771,2023,Legal,05,181.15,1
+100188,"Cowdery, James",F3007,2023,Entertainment,05,314.3,1
+302048,"DeLancey, Jayson",F3104,2023,Dolby.io,05,300.22,1
+204257,"Dieu, Cody",F2206,2023,nan,05,263.53,1
+304106,"Emami, Parastoo Fatemeh",F3110,2023,Dolby.io,05,1883.59,1
+200821,"Hoglund, Heath",F5440,2023,Legal,05,1144.45,1
+38500,"Husak, Walter",F3204,2023,ATG,05,563.44,1
+200216,"Jay, Helene",F4700,2023,Legal,05,936.34,1
+207470,"Kahvejian, Garo",F4120,2023,Entertainment,05,1250.19,1
+201031,"Koh, Youkyung",F4083,2023,Entertainment,05,1627.52,1
+200971,"Kosiba, Christine",F5002,2023,CFO,05,561.05,1
+303520,"Kratz, Diane Gabl",F5210,2023,Legal,05,929.99,1
+201865,"Krejci, Eric",F3245,2023,Entertainment,05,199.38,1
+205208,"Liaghat, Aria",F3239,2023,Entertainment,05,182.83,1
+201743,"Maddalena, Michelle Ellen",F4059,2023,Entertainment,05,1696.37,1
+207438,"Alvarado, Jesus",F4280,2023,Entertainment,06,1585.52,1
+207904,"Appel, Renee",F4355,2023,Marketing,06,431.8,1
+300047,"Argilla, Luke",F4084,2023,Entertainment,06,600.0,1
+300073,"Cannon, Lindley",F3254,2023,Entertainment,06,211.99,1
+209192,"Cooper, Michael",F5002,2023,CFO,06,543.84,1
+75829,"Daher, Debra",F4508,2023,Entertainment,06,239.34,1
+302048,"DeLancey, Jayson",F3104,2023,Dolby.io,06,300.22,1
+305096,"Gross, Brandon",F4370,2023,Marketing,06,331.24,1
+200821,"Hoglund, Heath",F5440,2023,Legal,06,1144.45,1
+207469,"Hughes, Jose",F4120,2023,Entertainment,06,2200.0,1
+205716,"Joguet-Reccordon, Cedric",F4247,2023,Entertainment,06,472.08,1
+207470,"Kahvejian, Garo",F4120,2023,Entertainment,06,1250.19,1
+207854,"Kim, Ji Eun",F4247,2023,Entertainment,06,419.35,1
+200971,"Kosiba, Christine",F5002,2023,CFO,06,561.05,1
+304487,"Hua, Baoyu",F4246,2023,Entertainment,12,561.76,1

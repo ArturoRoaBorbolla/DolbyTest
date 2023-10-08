@@ -1,0 +1,1 @@
+EMP_ID,"""Employee_Name""",Employee_Country_Code,"""Employee_Org_Unit_2_Code""",Transaction_Date,Expense_Type,Sum(Approved_Amount_RPT)

@@ -1,0 +1,56 @@
+{
+    "expense":[
+        {
+            "id": 1,
+            "name": "Travel Expenses"
+        },
+        {
+            "id": 2,
+            "name": "Transportation"
+        },
+        {
+            "id": 3,
+            "name": "Employee Meals and Entertainment"
+        },
+        {
+            "id": 4,
+            "name": "Third Party  Meals and Entertainment"
+        },
+        {
+            "id": 5,
+            "name": "Government Official Expenses"
+        },
+        {
+            "id": 6,
+            "name": "Office Expenses"
+        },
+        {
+            "id": 7,
+            "name": "Communications"
+        },
+        {
+            "id": 8,
+            "name": "Fees"
+        },
+        {
+            "id": 9,
+            "name": "Other"
+        },
+        {
+            "id": 10,
+            "name": "Relocation/Ex-Pat"
+        },
+        {
+            "id": 11,
+            "name": "Learning and Development"
+        },
+        {
+            "id": 12,
+            "name": "Marketing Expenses"
+        },
+        {
+            "id": 13,
+            "name": "Professional Services"
+        }
+    ]
+}
