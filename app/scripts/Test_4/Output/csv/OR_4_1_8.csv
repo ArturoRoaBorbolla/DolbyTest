@@ -1,0 +1,80 @@
+EMP_ID,Employee,Employee_Org_Unit_4___Code,Bussiness_Group,Cumulative(Approved_Amount_RPT),Months over 150,Flagged
+207470,"Kahvejian, Garo",F4120,Entertainment,1250.19,6,Yes
+200523,"Brown, Charles",F3042,ATG,863.96,5,Yes
+300249,"Bruce, James",F4031,Entertainment,875.0,5,Yes
+200216,"Jay, Helene",F4700,Legal,936.34,5,Yes
+303520,"Kratz, Diane Gabl",F5210,Legal,929.99,5,Yes
+201743,"Maddalena, Michelle Ellen",F4059,Entertainment,1696.37,5,Yes
+207438,"Alvarado, Jesus",F4280,Entertainment,1585.52,4,Yes
+205624,"Carlin, Pamela",F5100,CFO,60577.39,4,Yes
+207482,"Gelin, Mark",F4120,Entertainment,755.42,4,Yes
+201726,"Griffis, Patrick",F3204,ATG,698.46,4,Yes
+207469,"Hughes, Jose",F4120,Entertainment,2200.0,4,Yes
+45900,"Lazaro, Ricardo",F5090,CFO,603.7,4,Yes
+204150,"DuBois, Maureen",F4506,Entertainment,1895.63,3,Yes
+204378,"Elsmore, Timothy",F4124,Entertainment,1624.03,3,Yes
+200821,"Hoglund, Heath",F5440,Legal,1144.45,3,Yes
+200971,"Kosiba, Christine",F5002,CFO,561.05,3,Yes
+206806,"Altman, Marcus",F3245,Entertainment,677.2,2,No
+207079,"Bu, Jane",F5446,Legal,405.65,2,No
+8525,"Bullock, Dean",F3204,ATG,739.92,2,No
+302260,"Carregha, Diego",F4020,Entertainment,3065.08,2,No
+302048,"DeLancey, Jayson",F3104,Dolby.io,300.22,2,No
+304106,"Emami, Parastoo Fatemeh",F3110,Dolby.io,1883.59,2,No
+205716,"Joguet-Reccordon, Cedric",F4247,Entertainment,472.08,2,No
+207854,"Kim, Ji Eun",F4247,Entertainment,419.35,2,No
+201031,"Koh, Youkyung",F4083,Entertainment,1627.52,2,No
+205139,"Lucero, Richard",F5030,CFO,928.02,2,No
+205455,"Adams, Maxwell",F5251,Legal,160.37,1,No
+208776,"Akdeniz, Aysel",F4751,Legal,565.47,1,No
+301776,"Anderson, Bernie",F2405,nan,442.92,1,No
+3320,"Andrews, Tim",F4055,Entertainment,187.39,1,No
+207904,"Appel, Renee",F4355,Marketing,431.8,1,No
+100074,"Arenas, Bryan",F2400,nan,184.71,1,No
+207102,"Arenas, Christian",F4059,Entertainment,261.54,1,No
+300047,"Argilla, Luke",F4084,Entertainment,600.0,1,No
+206291,"Arnold, Ashley",F4187,Entertainment,378.44,1,No
+207513,"Assio, Joseph",F5102,CFO,454.12,1,No
+3507,"Babbitt, Michael",F4124,Entertainment,452.46,1,No
+301472,"Baioumy, Mostafa",F5251,Legal,595.58,1,No
+202805,"Barrett, Michael",F3246,Entertainment,447.6,1,No
+208083,"Burnett, Craig Vincent",F5270,Legal,234.25,1,No
+300073,"Cannon, Lindley",F3254,Entertainment,211.99,1,No
+208554,"Chao, Ting-Mao",F5270,Legal,183.5,1,No
+208675,"Chia, Thomas",F5440,Legal,212.85,1,No
+209754,"Chu, Shih Kuang",F4771,Legal,181.15,1,No
+302095,"Coffey, Daniel",F3125,Dolby.io,545.16,1,No
+300268,"Collantes, Patricia",F5352,People & Places,562.14,1,No
+209192,"Cooper, Michael",F5002,CFO,543.84,1,No
+100188,"Cowdery, James",F3007,Entertainment,314.3,1,No
+75829,"Daher, Debra",F4508,Entertainment,239.34,1,No
+302421,"Devictor, Gilles",F4265,Entertainment,827.72,1,No
+204257,"Dieu, Cody",F2206,nan,263.53,1,No
+304847,"Dright Dyson, Cynthia",F4702,Legal,457.24,1,No
+24000,"Dull, Elaine",F5251,Legal,199.93,1,No
+303463,"Dutta, Trinoy",F3008,Entertainment,563.1,1,No
+302050,"Emerson, Acacia",F5200,Legal,600.0,1,No
+206731,"Fan, Ji",F3125,Dolby.io,185.32,1,No
+207943,"Gehring, William",F4247,Entertainment,515.32,1,No
+202173,"Geller, Ron",F4202,Entertainment,484.12,1,No
+207612,"Gilleon, Berry",F2102,nan,700.0,1,No
+209517,"Glover, Lauren Ashley",F5353,People & Places,343.5,1,No
+305268,"Gorman, Alex Joseph",F5200,Legal,400.0,1,No
+209674,"Gribler, Nancy Klasky",F4369,Marketing,571.56,1,No
+305096,"Gross, Brandon",F4370,Marketing,331.24,1,No
+209210,"Hennessy-York, Blake",F4702,Legal,210.0,1,No
+202317,"Hu, Ailan",F3163,ATG,221.84,1,No
+304487,"Hua, Baoyu",F4246,Entertainment,561.76,1,No
+304499,"Hughes, Patrick Joseph",F4750,Legal,392.6,1,No
+38500,"Husak, Walter",F3204,ATG,563.44,1,No
+207479,"Jackson, James",F4280,Entertainment,165.48,1,No
+208356,"Jakkidi, Srinivas",F4480,Entertainment,255.27,1,No
+303493,"Jones, Jaquay",F5449,Legal,414.06,1,No
+204862,"Kalluri, Venugopal",F3010,Dolby.io,150.78,1,No
+303446,"Kennedy, Katelin Sarah",F5500,People & Places,522.72,1,No
+45000,"Kodros, Thomas",F2404,nan,560.22,1,No
+201865,"Krejci, Eric",F3245,Entertainment,199.38,1,No
+303364,"Lee, Linda",F5301,People & Places,600.0,1,No
+205208,"Liaghat, Aria",F3239,Entertainment,182.83,1,No
+200263,"Malnick, Nicole",F5002,CFO,190.0,1,No
+208185,"Mathew, Aby",F4540,Entertainment,411.34,1,No

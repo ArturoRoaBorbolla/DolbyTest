@@ -1,0 +1,28 @@
+[
+    {"analytics": 
+        [
+            {"run": 
+                [
+                    {"text": "run", "test": "Test_1", "script": "Test_1.py"},
+                    {"text": "run", "test": "Test_2", "script": "Test_2.py"},
+                    {"text": "run", "test": "Test_3", "script": "Test_3.py"},
+                    {"text": "run", "test": "Test_4", "script": "Test_4.py"},
+                    {"text": "run", "test": "Test_5", "script": "Test_5.py"},
+                    {"text": "run", "test": "Test_6", "script": "Test_6.py"},
+                    {"text": "run", "test": "Test_7", "script": "Test_7.py"}
+                ]
+            },
+            {"view": 
+                [
+                    {"text": "view", "test": "Test_1"},
+                    {"text": "view", "test": "Test_2"},
+                    {"text": "view", "test": "Test_3"},
+                    {"text": "view", "test": "Test_4"},
+                    {"text": "view", "test": "Test_5"},
+                    {"text": "view", "test": "Test_6"},
+                    {"text": "view", "test": "Test_7"}
+                ]
+            }
+        ]
+    }
+]

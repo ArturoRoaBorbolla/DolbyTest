@@ -6,6 +6,7 @@ import 'package:testdolby/service/json_service.dart';
 import 'package:testdolby/widgets/card_with_title.dart';
 import 'package:testdolby/widgets/custom_text.dart';
 import 'package:testdolby/widgets/section_title.dart';
+import 'package:testdolby/widgets/alert.dart';
 import 'package:flutter/material.dart';
 
 class AnalyticsPage extends StatefulWidget {
@@ -16,6 +17,9 @@ class AnalyticsPage extends StatefulWidget {
 }
 
 class _AnalyticsPageState extends State<AnalyticsPage> {
+  _alert(context, title, content) {
+    Alert.noticeAlert(context, title, content);
+  }
   JsonService jsonService = JsonService();
   Directory currentDir = Directory.current;
   String header = "";

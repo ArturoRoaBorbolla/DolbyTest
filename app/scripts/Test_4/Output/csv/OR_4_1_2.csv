@@ -1,0 +1,141 @@
+EMP_ID,Employee,Employee_Country_Code,Bussiness_Group,Year,Month,Sum(Approved_Amount__rpt_)
+205624,"Carlin, Pamela",US,CFO,2023,03,5111.2699999999995
+205624,"Carlin, Pamela",US,CFO,2023,01,4800.69
+205624,"Carlin, Pamela",US,CFO,2023,05,2728.81
+205624,"Carlin, Pamela",US,CFO,2023,02,1646.27
+302260,"Carregha, Diego",US,Entertainment,2023,02,544.24
+304106,"Emami, Parastoo Fatemeh",US,Dolby.io,2023,02,456.83
+207469,"Hughes, Jose",US,Entertainment,2023,01,440.0
+207469,"Hughes, Jose",US,Entertainment,2023,04,440.0
+201031,"Koh, Youkyung",US,Entertainment,2023,05,404.06
+200821,"Hoglund, Heath",US,Legal,2023,06,390.4
+206806,"Altman, Marcus",US,Entertainment,2023,02,360.88
+207612,"Gilleon, Berry",US,nan,2023,04,350.0
+207438,"Alvarado, Jesus",US,Entertainment,2023,03,347.38
+209517,"Glover, Lauren Ashley",US,People & Places,2023,01,343.5
+206806,"Altman, Marcus",US,Entertainment,2023,03,316.32
+100188,"Cowdery, James",US,Entertainment,2023,05,314.3
+300047,"Argilla, Luke",US,Entertainment,2023,06,300.0
+302050,"Emerson, Acacia",US,Legal,2023,03,300.0
+303364,"Lee, Linda",US,People & Places,2023,04,300.0
+301472,"Baioumy, Mostafa",US,Legal,2023,05,297.78999999999996
+207438,"Alvarado, Jesus",US,Entertainment,2023,01,291.32000000000005
+209674,"Gribler, Nancy Klasky",US,Marketing,2023,02,285.78000000000003
+38500,"Husak, Walter",US,ATG,2023,05,281.72
+303463,"Dutta, Trinoy",US,Entertainment,2023,02,281.55
+300268,"Collantes, Patricia",US,People & Places,2023,04,281.07
+304487,"Hua, Baoyu",US,Entertainment,2023,12,280.88
+45000,"Kodros, Thomas",US,nan,2023,04,280.11
+204378,"Elsmore, Timothy",US,Entertainment,2023,03,273.13
+209192,"Cooper, Michael",US,CFO,2023,06,271.92
+204257,"Dieu, Cody",US,nan,2023,05,263.53
+207102,"Arenas, Christian",US,Entertainment,2023,01,261.54
+207943,"Gehring, William",US,Entertainment,2023,02,257.66
+304106,"Emami, Parastoo Fatemeh",US,Dolby.io,2023,05,256.55
+208356,"Jakkidi, Srinivas",US,Entertainment,2023,04,255.27
+205139,"Lucero, Richard",US,CFO,2023,01,246.17000000000002
+205716,"Joguet-Reccordon, Cedric",US,Entertainment,2023,04,245.91
+202173,"Geller, Ron",US,Entertainment,2023,03,242.06
+75829,"Daher, Debra",US,Entertainment,2023,06,239.34
+201743,"Maddalena, Michelle Ellen",US,Entertainment,2023,02,237.62
+200216,"Jay, Helene",US,Legal,2023,03,235.48
+208083,"Burnett, Craig Vincent",US,Legal,2023,02,234.25
+207854,"Kim, Ji Eun",US,Entertainment,2023,01,229.98
+304847,"Dright Dyson, Cynthia",US,Legal,2023,03,228.62
+207079,"Bu, Jane",US,Legal,2023,01,227.82
+207513,"Assio, Joseph",US,CFO,2023,02,227.06
+201726,"Griffis, Patrick",US,ATG,2023,01,226.66
+3507,"Babbitt, Michael",US,Entertainment,2023,05,226.23000000000002
+205716,"Joguet-Reccordon, Cedric",US,Entertainment,2023,06,226.17
+202805,"Barrett, Michael",US,Entertainment,2023,05,223.8
+202317,"Hu, Ailan",US,ATG,2023,01,221.84
+301776,"Anderson, Bernie",US,nan,2023,03,221.46
+204150,"DuBois, Maureen",US,Entertainment,2023,03,220.45999999999998
+207469,"Hughes, Jose",US,Entertainment,2023,03,220.0
+207469,"Hughes, Jose",US,Entertainment,2023,06,220.0
+205139,"Lucero, Richard",US,CFO,2023,03,217.84
+207904,"Appel, Renee",US,Marketing,2023,06,215.89999999999998
+208675,"Chia, Thomas",US,Legal,2023,05,212.85
+300073,"Cannon, Lindley",US,Entertainment,2023,06,211.99
+8525,"Bullock, Dean",US,ATG,2023,04,210.9
+200971,"Kosiba, Christine",US,CFO,2023,04,210.35
+209210,"Hennessy-York, Blake",US,Legal,2023,03,210.0
+207470,"Kahvejian, Garo",US,Entertainment,2023,04,209.47
+207470,"Kahvejian, Garo",US,Entertainment,2023,05,209.47
+207470,"Kahvejian, Garo",US,Entertainment,2023,06,209.47
+201031,"Koh, Youkyung",US,Entertainment,2023,01,207.67000000000002
+207470,"Kahvejian, Garo",US,Entertainment,2023,01,207.26
+207470,"Kahvejian, Garo",US,Entertainment,2023,02,207.26
+207470,"Kahvejian, Garo",US,Entertainment,2023,03,207.26
+303493,"Jones, Jaquay",US,Legal,2023,01,207.03
+302421,"Devictor, Gilles",US,Entertainment,2023,04,206.93
+208185,"Mathew, Aby",US,Entertainment,2023,01,205.67000000000002
+300249,"Bruce, James",US,Entertainment,2023,05,205.0
+200821,"Hoglund, Heath",US,Legal,2023,05,204.01
+204378,"Elsmore, Timothy",US,Entertainment,2023,04,203.67
+305268,"Gorman, Alex Joseph",US,Legal,2023,02,200.0
+24000,"Dull, Elaine",US,Legal,2023,01,199.93
+201865,"Krejci, Eric",US,Entertainment,2023,05,199.38
+204378,"Elsmore, Timothy",US,Entertainment,2023,01,198.64999999999998
+304499,"Hughes, Patrick Joseph",US,Legal,2023,03,196.3
+207482,"Gelin, Mark",US,Entertainment,2023,01,190.22
+200263,"Malnick, Nicole",US,CFO,2023,03,190.0
+207854,"Kim, Ji Eun",US,Entertainment,2023,06,189.37
+206291,"Arnold, Ashley",US,Entertainment,2023,03,189.22
+207482,"Gelin, Mark",US,Entertainment,2023,04,188.8
+208776,"Akdeniz, Aysel",US,Legal,2023,03,188.49
+207482,"Gelin, Mark",US,Entertainment,2023,02,188.2
+207482,"Gelin, Mark",US,Entertainment,2023,03,188.2
+303520,"Kratz, Diane Gabl",US,Legal,2023,02,188.12
+303520,"Kratz, Diane Gabl",US,Legal,2023,03,188.12
+303520,"Kratz, Diane Gabl",US,Legal,2023,01,188.11
+3320,"Andrews, Tim",US,Entertainment,2023,03,187.39
+206731,"Fan, Ji",US,Dolby.io,2023,01,185.32
+100074,"Arenas, Bryan",US,nan,2023,01,184.71
+208554,"Chao, Ting-Mao",US,Legal,2023,05,183.5
+303520,"Kratz, Diane Gabl",US,Legal,2023,04,182.92
+205208,"Liaghat, Aria",US,Entertainment,2023,05,182.83
+303520,"Kratz, Diane Gabl",US,Legal,2023,05,182.72
+302095,"Coffey, Daniel",US,Dolby.io,2023,01,181.72
+209754,"Chu, Shih Kuang",US,Legal,2023,05,181.15
+207079,"Bu, Jane",US,Legal,2023,04,177.83
+200216,"Jay, Helene",US,Legal,2023,04,177.79
+200216,"Jay, Helene",US,Legal,2023,02,176.81
+201743,"Maddalena, Michelle Ellen",US,Entertainment,2023,04,176.48000000000002
+201743,"Maddalena, Michelle Ellen",US,Entertainment,2023,01,175.56
+200971,"Kosiba, Christine",US,CFO,2023,05,175.35
+200971,"Kosiba, Christine",US,CFO,2023,06,175.35
+201743,"Maddalena, Michelle Ellen",US,Entertainment,2023,03,175.28
+300249,"Bruce, James",US,Entertainment,2023,04,175.0
+200216,"Jay, Helene",US,Legal,2023,01,174.63
+303446,"Kennedy, Katelin Sarah",US,People & Places,2023,04,174.24
+200523,"Brown, Charles",US,ATG,2023,01,173.49
+200523,"Brown, Charles",US,ATG,2023,02,173.49
+200523,"Brown, Charles",US,ATG,2023,03,173.49
+200523,"Brown, Charles",US,ATG,2023,04,173.49
+302260,"Carregha, Diego",US,Entertainment,2023,01,171.94
+200216,"Jay, Helene",US,Legal,2023,05,171.63
+204150,"DuBois, Maureen",US,Entertainment,2023,01,170.48000000000002
+200523,"Brown, Charles",US,ATG,2023,05,170.0
+204150,"DuBois, Maureen",US,Entertainment,2023,04,167.45
+201743,"Maddalena, Michelle Ellen",US,Entertainment,2023,05,166.49
+305096,"Gross, Brandon",US,Marketing,2023,06,165.62
+207479,"Jackson, James",US,Entertainment,2023,03,165.48
+300249,"Bruce, James",US,Entertainment,2023,01,165.0
+300249,"Bruce, James",US,Entertainment,2023,02,165.0
+300249,"Bruce, James",US,Entertainment,2023,03,165.0
+205455,"Adams, Maxwell",US,Legal,2023,05,160.37
+200821,"Hoglund, Heath",US,Legal,2023,04,159.64
+8525,"Bullock, Dean",US,ATG,2023,05,159.06
+201726,"Griffis, Patrick",US,ATG,2023,04,158.4
+201726,"Griffis, Patrick",US,ATG,2023,02,156.7
+201726,"Griffis, Patrick",US,ATG,2023,03,156.7
+207438,"Alvarado, Jesus",US,Entertainment,2023,05,154.06
+207438,"Alvarado, Jesus",US,Entertainment,2023,06,154.06
+45900,"Lazaro, Ricardo",US,CFO,2023,04,151.34
+45900,"Lazaro, Ricardo",US,CFO,2023,01,150.92
+204862,"Kalluri, Venugopal",US,Dolby.io,2023,03,150.78
+45900,"Lazaro, Ricardo",US,CFO,2023,02,150.72
+45900,"Lazaro, Ricardo",US,CFO,2023,03,150.72
+302048,"DeLancey, Jayson",US,Dolby.io,2023,05,150.11
+302048,"DeLancey, Jayson",US,Dolby.io,2023,06,150.11

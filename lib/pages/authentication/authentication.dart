@@ -118,11 +118,11 @@ class _AuthenticationPageState extends State<AuthenticationPage> {
                     onPressed: () async {
                       if (userController.text.isEmpty ||
                           passwordController.text.isEmpty) {
-                        //_alert(context, 'Failed to login',
-                        //    'Please make sure all fields are filled.');
-                        Directory currentDir = Directory.current;
-                        var data = '${currentDir.path}\\DataBase\\Dolby.db';
-                        _alert(context,data, data);
+                        _alert(context, 'Failed to login',
+                            'Please make sure all fields are filled.');
+                        //Directory currentDir = Directory.current;
+                        //var data = '${currentDir.path}\\DataBase\\Dolby.db';
+                        //_alert(context,data, data);
                       } else {
                         await _sqliteService
                             .login(userController.text, passwordController.text)

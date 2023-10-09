@@ -1,0 +1,299 @@
+{
+    "sub_expense":[
+        {
+            "id": 1,
+            "expense_id": 1,
+            "name": "Hotel"
+        },
+        {
+            "id": 2,
+            "expense_id": 1,
+            "name": "Hotel (Group Bookings  and Events)"
+        },
+        {
+            "id": 3,
+            "expense_id": 1,
+            "name": "Hotel deposit"
+        },
+        {
+            "id": 4,
+            "expense_id": 1,
+            "name": "Tips/Gratuities"
+        },
+        {
+            "id": 5,
+            "expense_id": 2,
+            "name": "Airfare (Company Paid)"
+        },
+        {
+            "id": 6,
+            "expense_id": 2,
+            "name": "Airfare (Corporate Card/Out-of-Pocket)"
+        },
+        {
+            "id": 7,
+            "expense_id": 2,
+            "name": "Airlines Fees"
+        },
+        {
+            "id": 8,
+            "expense_id": 2,
+            "name": "Car Rental"
+        },
+        {
+            "id": 9,
+            "expense_id": 2,
+            "name": "Mileage"
+        },
+        {
+            "id": 10,
+            "expense_id": 2,
+            "name": "Parking"
+        },
+        {
+            "id": 11,
+            "expense_id": 2,
+            "name": "Public Transport"
+        },
+        {
+            "id": 12,
+            "expense_id": 2,
+            "name": "Taxi/Rideshare"
+        },
+        {
+            "id": 13,
+            "expense_id": 2,
+            "name": "Tolls"
+        },
+        {
+            "id": 14,
+            "expense_id": 3,
+            "name": "Employee Awards/Recognition"
+        },
+        {
+            "id": 15,
+            "expense_id": 3,
+            "name": "Meals/Entertainment (Employees)"
+        },
+        {
+            "id": 16,
+            "expense_id": 3,
+            "name": "Travel Meals (Traveling  Dolby Employees only)"
+        },
+        {
+            "id": 17,
+            "expense_id": 3,
+            "name": "Working Meals (Employees only)"
+        },
+        {
+            "id": 18,
+            "expense_id": 4,
+            "name": "Meals/Entertainment (Third Party)"
+        },
+        {
+            "id": 19,
+            "expense_id": 5,
+            "name": "Government Official Expenses/Gifts"
+        },
+        {
+            "id": 20,
+            "expense_id": 5,
+            "name": "Government Official Expenses/Meals and Entertainment"
+        },
+        {
+            "id": 21,
+            "expense_id": 6,
+            "name": "Building Infraestructure/Repair"
+        },
+        {
+            "id": 22,
+            "expense_id": 6,
+            "name": "Building Supplies/Maintenance"
+        },
+        {
+            "id": 23,
+            "expense_id": 6,
+            "name": "Computer Supplies"
+        },
+        {
+            "id": 24,
+            "expense_id": 6,
+            "name": "Courier/Shipping/Freight/Postage"
+        },
+        {
+            "id": 25,
+            "expense_id": 6,
+            "name": "Equipment Rental/Repair"
+        },
+        {
+            "id": 26,
+            "expense_id": 6,
+            "name": "Expensed Furniture"
+        },
+        {
+            "id": 27,
+            "expense_id": 6,
+            "name": "Food  Services/Supplies (Facilities)"
+        },
+        {
+            "id": 28,
+            "expense_id": 6,
+            "name": "Office Supplies"
+        },
+        {
+            "id": 29,
+            "expense_id": 6,
+            "name": "Printing/Photocopying"
+        },
+        {
+            "id": 30,
+            "expense_id": 6,
+            "name": "Prototype"
+        },
+        {
+            "id": 31,
+            "expense_id": 6,
+            "name": "Safety/Security"
+        },
+        {
+            "id": 32,
+            "expense_id": 6,
+            "name": "Tools/Equipment/Lab Supplies"
+        },
+        {
+            "id": 33,
+            "expense_id": 6,
+            "name": "Software"
+        },
+        {
+            "id": 34,
+            "expense_id": 6,
+            "name": "Web Hosting"
+        },
+        {
+            "id": 35,
+            "expense_id": 6,
+            "name": "Utilities"
+        },
+        {
+            "id": 36,
+            "expense_id": 7,
+            "name": "Internet/Wifi/Telephone"
+        },
+        {
+            "id": 37,
+            "expense_id": 7,
+            "name": "Mobile/Cellular Phone"
+        },
+        {
+            "id": 38,
+            "expense_id": 8,
+            "name": "Agency Booking Fees"
+        },
+        {
+            "id": 39,
+            "expense_id": 8,
+            "name": "Bank Fees"
+        },
+        {
+            "id": 40,
+            "expense_id": 8,
+            "name": "Currency Exchange Fees"
+        },
+        {
+            "id": 41,
+            "expense_id": 8,
+            "name": "Passports/Visa Fees"
+        },
+        {
+            "id": 42,
+            "expense_id": 9,
+            "name": "Miscellaneous"
+        },
+        {
+            "id": 43,
+            "expense_id": 9,
+            "name": "Personal-Already Paid to Corporate Card Bank"
+        },
+        {
+            "id": 44,
+            "expense_id": 9,
+            "name": "Personal-Not Paid to Corporate Card Bank"
+        },
+        {
+            "id": 45,
+            "expense_id": 9,
+            "name": "Recruting Expenses"
+        },
+        {
+            "id": 46,
+            "expense_id": 10,
+            "name": "Relocation Expenses"
+        },
+        {
+            "id": 47,
+            "expense_id": 11,
+            "name": "Books/Subscriptions"
+        },
+        {
+            "id": 48,
+            "expense_id": 11,
+            "name": "Conferences/Tradeshows Registration Fees"
+        },
+        {
+            "id": 49,
+            "expense_id": 11,
+            "name": "Dues/Memberships"
+        },
+        {
+            "id": 50,
+            "expense_id": 11,
+            "name": "Education"
+        },
+        {
+            "id": 51,
+            "expense_id": 11,
+            "name": "Training Fees"
+        },
+        {
+            "id": 52,
+            "expense_id": 12,
+            "name": "Advertising Expense"
+        },
+        {
+            "id": 53,
+            "expense_id": 12,
+            "name": "Content/Media Expenses"
+        },
+        {
+            "id": 54,
+            "expense_id": 12,
+            "name": "Exhibit Expenses"
+        },
+        {
+            "id": 55,
+            "expense_id": 12,
+            "name": "Market Research"
+        },
+        {
+            "id": 56,
+            "expense_id": 12,
+            "name": "Promotional Expenses"
+        },
+        {
+            "id": 57,
+            "expense_id": 12,
+            "name": "Public Relations"
+        },
+        {
+            "id": 58,
+            "expense_id": 13,
+            "name": "Professional Fees"
+        },
+        {
+            "id": 59,
+            "expense_id": 13,
+            "name": "Legal Expenses"
+        }
+    ]
+}
